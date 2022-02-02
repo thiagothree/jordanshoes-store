@@ -1,1 +1,2 @@
-# jordanshoes-store
+# JordanShoes Store - Welcome
+
