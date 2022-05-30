@@ -10,10 +10,10 @@ O objetivo desses códigos presentes no repositório é a construção de uma la
 
 **Mobile**:
 
-<a href=""><img src="images/mobile.png"></a>
+<a href="https://thiagothree.github.io/jordanshoes-store/"><img src="images/mobile.png"></a>
 
 **Desktop**:
 
-<a href=""><img src="images/desktop.png"></a>
+<a href="https://thiagothree.github.io/jordanshoes-store/"><img src="images/desktop.png"></a>
 
-**Link**: 
+**Link**: https://thiagothree.github.io/jordanshoes-store/
